@@ -6,7 +6,7 @@ The WorldTrotter project covered views and view hierarchy, auto layout, view con
 
 The WorldTrotter application introduces the user with a Fahrenheit to Celsius conversion calculator.
 
-![screenshot1](assets/third.png)
+![screenshot1](third.png)
 
 The second tab, Map, shows the map of the world with three different view options: Standard, Hybrid, and Satellite.
 
