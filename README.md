@@ -15,7 +15,7 @@ The second tab, Map, shows the map of the world with three different view option
 The third tab, Quiz, has three questions and answers. The user can reveal the answer when they think they are ready to answer.
 
 ![screenshot](quizIntro.png)
-![screenshot](shawQuestion.png)
+![screenshot](shaqQuestion.png)
 ![screenshot](yenQuestion.png)
 
 The application is also available in Spanish.
