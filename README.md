@@ -10,7 +10,7 @@ The WorldTrotter application introduces the user with a Fahrenheit to Celsius co
 
 The second tab, Map, shows the map of the world with three different view options: Standard, Hybrid, and Satellite.
 
-![screenshot](assets/mapScreenshot.png)
+![screenshot](mapScreenshot.png)
 
 The third tab, Quiz, has three questions and answers. The user can reveal the answer when they think they are ready to answer.
 
